@@ -116,7 +116,7 @@ export default function Portfolio() {
                     </div>
                 </div>
 
-                <div class="col" style={{ width: "30%" }}>
+                {/* <div class="col" style={{ width: "30%" }}>
                     <div class="card h-100">
                         <a href="https://lim204.github.io/workday-scheduler/">
                             {" "}
@@ -127,7 +127,7 @@ export default function Portfolio() {
                             <p class="card-text">Plan your day with this frriendly applicationsjfdhksfdsjkfdfds.</p>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
             </div>
 
