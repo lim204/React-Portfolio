@@ -7,7 +7,7 @@ export default function Footer() {
       <section>
         <ul class="nav justify-content-center">
           <li class="nav item">
-            <p> Github  </p>
+            <p> Github </p>
             <a class="nav-link active" href="https://github.com/lim204">
               {" "}
               <img src="#" class="card-img" alt=".." />

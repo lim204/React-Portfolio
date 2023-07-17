@@ -6,8 +6,8 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs justify-content-end">
 
-      <li className="nav-item">
-        <a
+      <li className="nav-item" >
+        <a aria-current="page"
           href="#about"
           onClick={() => handlePageChange('About')}
           //  TODO: Add a comment explaining what this logic is doing
