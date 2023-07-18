@@ -2,7 +2,7 @@ import React from 'react';
 //  link to download resume
 export default function Resume() {
   return (
-    <div>
+    <div class="p-3 mb-2 bg-body-secondary">
       <h1>Resume</h1>
       <p>
         Please feel free to check out my list of Developer

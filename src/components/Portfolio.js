@@ -7,7 +7,7 @@ import workdaySchedulerImg from "../assets/images/workday-scheduler.png"
 
 export default function Portfolio() {
     return (
-        <div>
+        <div class="p-3 mb-2 bg-body-secondary">
             <h1>Projects</h1>
 
             {/* <div>

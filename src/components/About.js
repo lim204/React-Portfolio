@@ -2,10 +2,10 @@ import React from 'react';
 
 export default function About() {
     return (
-        <div>
+        <div class="p-3 mb-2 bg-body-secondary">
             <h1>About me</h1>
 
-            <p>
+            <p >
                 I am a full stack web developer student looking gain more
                 experience and master developed skills such as
                 JavaScript, CSS, React.js, and responsive web

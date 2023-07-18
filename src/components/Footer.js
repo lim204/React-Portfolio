@@ -2,9 +2,9 @@ import React from 'react';
 
 export default function Footer() {
   return (
-    <footer>
+    <footer class="p-3 mb-2 bg-body-secondary">
 
-      <section>
+      <section > 
         <ul class="nav justify-content-center">
           <li class="nav item">
             <p> Github </p>
@@ -23,9 +23,9 @@ export default function Footer() {
 
           <li class="nav item">
             <p>Instagram</p>
-            <a class="nav-link active" aria-current="page" href="#">
-              <img src="#" class="card-img" alt=".." />
-            </a>
+            {/* <a class="nav-link active" aria-current="page" href="#"> */}
+              {/* <img src="#" class="card-img" alt=".." />
+            </a> */}
 
           </li>
 

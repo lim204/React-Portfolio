@@ -36,8 +36,10 @@ export default function App() {
         <title/> Laura Mendez
        </div> */}
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
-
-      {renderPage()}
+       <main>
+          {renderPage()}
+       </main>
+       
 
       <Footer currentPage={currentPage} handlePageChange={handlePageChange} />
 
