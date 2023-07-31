@@ -8,6 +8,9 @@ export default function Resume() {
         Please feel free to check out my list of Developer
         Proficiencies!
       </p>
+      <p>
+        Download my <a href="https://www.linkedin.com/">resume</a>
+        </p>
       <section id="home-page-body" className="resume-body">
         <div className="article column1">
           <p className="column-title">Font-End</p>
