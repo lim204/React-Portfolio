@@ -4,6 +4,7 @@ import weatherDashboardImg from "../assets/images/Weather-Dashboard.png";
 import leftoversImg from "../assets/images/leftovers.png";
 import globeImg from "../assets/images/globe.jpeg";
 import workdaySchedulerImg from "../assets/images/workday-scheduler.png"
+import garagioImg from "../assets/images/garagio.png"
 
 export default function Portfolio() {
     return (
@@ -120,11 +121,11 @@ export default function Portfolio() {
                     <div class="card h-100">
                         <a href="https://garagio-16dff4078a93.herokuapp.com/">
                             {" "}
-                            <img src={workdaySchedulerImg} class="card-img" alt="garagio-app" />
+                            <img src={garagioImg} class="card-img" alt="garagio-app" />
                         </a>
                         <div class="card-body">
                             <h4 class="card-title">Garagio</h4>
-                            <p class="card-text">Have selling or buying from the comfort of your home</p>
+                            <p class="card-text">Have fun selling or buying from the comfort of your home</p>
                         </div>
                     </div>
                 </div>
