@@ -116,18 +116,18 @@ export default function Portfolio() {
                     </div>
                 </div>
 
-                {/* <div class="col" style={{ width: "30%" }}>
+                <div class="col" style={{ width: "30%" }}>
                     <div class="card h-100">
-                        <a href="https://lim204.github.io/workday-scheduler/">
+                        <a href="https://garagio-16dff4078a93.herokuapp.com/">
                             {" "}
-                            <img src={workdaySchedulerImg} class="card-img" alt="workday-scheduler" />
+                            <img src={workdaySchedulerImg} class="card-img" alt="garagio-app" />
                         </a>
                         <div class="card-body">
-                            <h4 class="card-title">Workday Scheduler</h4>
-                            <p class="card-text">Plan your day with this frriendly applicationsjfdhksfdsjkfdfds.</p>
+                            <h4 class="card-title">Garagio</h4>
+                            <p class="card-text">Have selling or buying from the comfort of your home</p>
                         </div>
                     </div>
-                </div> */}
+                </div>
 
             </div>
 
