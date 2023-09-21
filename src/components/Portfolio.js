@@ -9,13 +9,13 @@ export default function Portfolio (){
           name: 'note-taker',
           description: 'MERN Stack',
           link: "https://note-taker01.herokuapp.com",
-          repo: "https://github.com"
+          repo: "https://lim204.github.io/note-taker/"
         },
         {
           name: 'weather-dashboard',
           description: 'MERN Stack',
           link: "https://lim204.github.io/Weather-Dashboard/",
-          repo: "https://github.com"
+          repo: "https://lim204.github.io/Weather-Dashboard/"
         },
         {
           name: 'leftovers',
