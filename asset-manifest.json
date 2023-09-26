@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.d20202a4.css",
-    "main.js": "/React-Portfolio/static/js/main.05a1ca0e.js",
+    "main.css": "/React-Portfolio/static/css/main.db0bbc0b.css",
+    "main.js": "/React-Portfolio/static/js/main.51a11e7f.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/cover-image.jpg": "/React-Portfolio/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
     "static/media/spin-the-globe.jpg": "/React-Portfolio/static/media/spin-the-globe.b57f2b88349c6b77211d.jpg",
     "static/media/workday-scheduler.jpg": "/React-Portfolio/static/media/workday-scheduler.c905c2d12b5c9b7485ff.jpg",
     "static/media/note-taker.jpg": "/React-Portfolio/static/media/note-taker.bb6f4d8d88b3569cb0e0.jpg",
     "static/media/weather-dashboard.jpg": "/React-Portfolio/static/media/weather-dashboard.6490cdfef5afd0538437.jpg",
     "static/media/leftovers.jpg": "/React-Portfolio/static/media/leftovers.5ff0a7600bae7cd50d00.jpg",
     "index.html": "/React-Portfolio/index.html",
-    "main.d20202a4.css.map": "/React-Portfolio/static/css/main.d20202a4.css.map",
-    "main.05a1ca0e.js.map": "/React-Portfolio/static/js/main.05a1ca0e.js.map",
+    "main.db0bbc0b.css.map": "/React-Portfolio/static/css/main.db0bbc0b.css.map",
+    "main.51a11e7f.js.map": "/React-Portfolio/static/js/main.51a11e7f.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d20202a4.css",
-    "static/js/main.05a1ca0e.js"
+    "static/css/main.db0bbc0b.css",
+    "static/js/main.51a11e7f.js"
   ]
 }
