@@ -6,33 +6,33 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
+      name: 'note-taker',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://note-taker01.herokuapp.com",
+      repo: "https://lim204.github.io/note-taker/"
     },
     {
-      name: 'pastel-puzzels',
+      name: 'weather-dashboard',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://lim204.github.io/Weather-Dashboard/",
+      repo: "https://lim204.github.io/Weather-Dashboard/"
     },
     {
-      name: 'run-buddy',
+      name: 'spin-the-globe',
       description: 'HTML/CSS',
-      link: "https://github.com",
+      link: "https://repopanda.github.io/spin-the-globe/",
       repo: "https://github.com"
     },
     {
-      name: 'led-wall',
+      name: 'leftovers',
       description: 'Node/IoT',
-      link: "https://github.com",
+      link: "https://leftovers.herokuapp.com",
       repo: "https://github.com"
     },
     {
-      name: 'calculator',
+      name: 'workday-scheduler',
       description: 'React/JavaScript/CSS',
-      link: "https://github.com",
+      link: "https://lim204.github.io/workday-scheduler/",
       repo: "https://github.com"
     },
   ]);
